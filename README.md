@@ -4,4 +4,4 @@
 
 # A quick way to provide user what they want online in their daily life so they do not get confuse and get busy in closing adds
 
-# Of google but still not getting but they wana search.
+# Of google but still not getting what they wana search.
